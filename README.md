@@ -1,7 +1,7 @@
 💖💖💖
 - 👋 Hi, I’m Tai (@lngtai001) a Software EngiNERD 🤓 passionate about People and Tech 
 - 👀 I’m interested in:
-  - 💻 Tech, Software (Vue.js, Vuetify, TypeScript, Java, GO)  
+  - 💻 Tech, Software (Vue.js, Vuetify, TypeScript, Java, GO, Pinia 🍍)  
   - 📚 Fantasy books 
   - 👾 Animations 
   - 😎 and generally cool stuff that humans made :)
